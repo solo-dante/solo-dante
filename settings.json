@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.fontSize": 15,
+    // "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "Menlo",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "blink",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorWidth": 3,
+    "files.autoSave": "afterDelay",
+}
